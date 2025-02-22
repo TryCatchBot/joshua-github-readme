@@ -38,7 +38,7 @@ I specialize in:
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ### Other Skills
-![Product Management](https://img.shields.io/badge/product%20manager-8A2BE2)
+![Product Management](https://img.shields.io/badge/-product management-3776AB?style=flat-square&logo=scrum&logoColor=white)
 
 <!-- https://img.shields.io/badge/product%20manager-8A2BE2 -->
 

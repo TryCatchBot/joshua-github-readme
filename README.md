@@ -37,10 +37,6 @@ I specialize in:
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-### Other Skills
-![Product Management](https://img.shields.io/badge/-product management-3776AB?style=flat-square&logo=scrum&logoColor=white)
-
-<!-- https://img.shields.io/badge/product%20manager-8A2BE2 -->
 
 
 ### Version Control & Deployment
@@ -61,12 +57,12 @@ I adhere to principled programming styles for clean, maintainable code.
 
 [![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TryCatchBot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryCatchBot&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=TryCatchBot&theme=dracula" alt="GitHub Streak" />

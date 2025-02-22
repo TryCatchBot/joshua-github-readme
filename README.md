@@ -38,7 +38,7 @@ I specialize in:
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ### Other Skills
-![Product Management](https://img.shields.io/badge/-Product Management-3776AB?style=flat-square&logo=python&logoColor=white)
+![Product Management](https://img.shields.io/badge/product%20manager-8A2BE2)
 
 <!-- https://img.shields.io/badge/product%20manager-8A2BE2 -->
 
@@ -55,8 +55,6 @@ I specialize in:
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 
-## Awards & Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=TryCatchBot&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Coding Style
 I adhere to principled programming styles for clean, maintainable code.

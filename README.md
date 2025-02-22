@@ -57,16 +57,7 @@ I adhere to principled programming styles for clean, maintainable code.
 
 [![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
 
-<!-- ## GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TryCatchBot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryCatchBot&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TryCatchBot&theme=dracula" alt="GitHub Streak" />
-</div>
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-Joshua_Aningene-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trycatchbot)
